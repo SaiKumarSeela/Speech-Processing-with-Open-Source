@@ -11,4 +11,4 @@ whisper_main.py
 wsa_main.py
 logs/
 mms-speech
-
+.env

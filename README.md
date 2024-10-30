@@ -15,6 +15,7 @@ This application provides real-time **Speech-to-Text** transcription and **Text-
 - **Speech-to-Text Model**: The Google Web Speech API is used for real-time speech recognition, allowing accurate and responsive transcription of spoken language.
 
 ## Project Demo
+[![SpeechProcessinAppUIwithOS](https://github.com/user-attachments/assets/5c333fd2-e376-4cd9-a090-4d3e63dc7514)](https://github.com/user-attachments/assets/5fd62bfd-5fdb-4475-8acb-de0a18a14def)
 
 ## Tech Stack
 
@@ -27,8 +28,8 @@ This application provides real-time **Speech-to-Text** transcription and **Text-
 
 1. **Clone the Repository**
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/SaiKumarSeela/Speech-Processing-with-Open-Source
+    cd Speech-Processing-with-Open-Source
     ```
 
 2. **Install Requirements**
