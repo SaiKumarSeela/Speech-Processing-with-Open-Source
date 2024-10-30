@@ -44,9 +44,6 @@ This application provides real-time **Speech-to-Text** transcription and **Text-
     ```bash
     uvicorn app:app --host 0.0.0.0 --port 8000
     ```
-
-
-
 ## Usage
 
 1. **Text-to-Speech Conversion**
@@ -60,7 +57,6 @@ This application provides real-time **Speech-to-Text** transcription and **Text-
    - Say "stop listening" or click **Stop Recording** to end the recording.
 
 ## API Endpoints
-
 - **GET /**: Loads the main HTML page.
 - **POST /text-to-speech**: Accepts text input, generates audio, and returns it as a base64-encoded string.
 - **WebSocket /transcribe**: Establishes a WebSocket connection for live transcription.
